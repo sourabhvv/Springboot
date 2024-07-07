@@ -1,7 +1,7 @@
 # PDF, Document, and CSV Reader
 
 This project is a web application that allows users to upload PDF, DOCX, or CSV files and view their contents. It consists of a React frontend and a Spring Boot backend.
-![File Upload](/Screenshot 2024-07-07 at 18-00-34 Spring react.png)
+(/Screenshot 2024-07-07 at 18-00-34 Spring react.png)
 ## Features
 
 - File upload for PDF, DOCX, and CSV formats
